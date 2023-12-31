@@ -1,0 +1,1 @@
+classifier = ml5.imageclassifier('https://teachablemachine.withgoogle.com/models/AhVHA__un/',modelloaded);

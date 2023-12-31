@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>family recongnition</title>
+
+    </head>
+    <body>
+        <center>
+                    <h1 id="yess">FAMILY recongnition</h1>
+                    <br>
+                    <h3>it can identify the following</h3>
+                    <br>
+                    <div id="main">
+                        <b>
+                            dad
+                            <br>
+                            <hr>
+                            <br>
+                            mummy
+                            <br>
+                        </b>
+                    </div>
+                    <br>
+                    <img id="camera">
+                    <img id="result">
+
+        </center>
+         
+    </body>
+</html>
